@@ -1,4 +1,4 @@
-# 🖥️ AGNoobies - CP Discord Bot
+# 🖥️ noobiesAG - CP Discord Bot
 
 [![Made with Python](https://img.shields.io/badge/Made%20with-Python-blue?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![Discord.py](https://img.shields.io/badge/Discord.py-2.x-blue?style=for-the-badge&logo=discord&logoColor=white)](https://discordpy.readthedocs.io/)
