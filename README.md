@@ -284,5 +284,5 @@ Distributed under the MIT License. See [LICENSE](LICENSE) for more information.
 </p>
 
 <p align="center">
-  💬 <a href="https://discord.gg/SuzXH6QqE7">Join our Support Server</a> | Made with ❤️ for the CP community
+  💬 <a href="https://discord.gg/SuzXH6QqE7">Join our Support Server</a> | Made with motivation for the CP community
 </p>
