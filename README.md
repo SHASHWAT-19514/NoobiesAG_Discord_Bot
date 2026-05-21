@@ -89,7 +89,7 @@ A feature-rich Discord bot built for Competitive Programming communities. Track 
 
 ### Configuration
 
-1.  Create a `.env` file in the project root (a template `.env` is included).
+1.  Create a `.env` file in the project root.
 2.  Open it and input your copied Discord Bot Token:
     ```env
     DISCORD_TOKEN=YOUR_DISCORD_BOT_TOKEN_HERE
